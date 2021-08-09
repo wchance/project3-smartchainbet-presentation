@@ -91,5 +91,6 @@ Before we get started create a MetaMask Wallet or import One, then follow the st
 <img src="./Images/Token_Added.png" alt="drawing" width="250"/>
 
 
+...
 
 
