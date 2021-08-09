@@ -25,49 +25,6 @@ Link Data Feeds can be used from these Networks
 - Testnet LINK is available from [https://kovan.chain.link/]
 - Testnet ETH is available from [https://linkfaucet.protofire.io/kovan]
 
-## Connect Your MetaMask With Binance Smart Chain
-
-Before we get started create a MetaMask Wallet or import One, then follow the steps:
-
-1. Go to setting page
-
-<img src="./Images/settings_MetaMask.png" alt="drawing" width="180"/>
-
-
-2. Select Networks and click on `Add Network`
-
-<img src="./Images/Add_network.png" alt="drawing" width="180"/>
-
-3. Fill the fields with this information
-
-<img src="./Images//network_info.png" alt="drawing" width="180"/>
-
-- Testnet
-
-    - RPC URLs - use address from Testnet data on this page: https://docs.binance.org/smart-chain/developer/rpc.html
-    - ChainID: 0x61, 97 in decimal (if 97 doesn’t work, try 0x61)
-    - Symbol: BNB
-    - Block Explorer: https://testnet.bscscan.com
-
-(Add Mainnet with steps 1-3 )
-
-- Mainnet
-
-    - RPC URLs - use address from Mainnet data on this page: https://docs.binance.org/smart-chain/developer/rpc.html
-    - ChainID: 0x38, 56 in decimal (if 56 doesn’t work, try 0x38)
-    - Symbol: BNB
-    - Block Explorer: https://bscscan.com
-
-4. Claim some testnet token to your account Click on your address for copy
-
-<img src="./Images/copy_address.png" alt="drawing" width="180"/>
-
-
-5. Go to faucet page: [https://testnet.binance.org/faucet-smart], then paste your address in the box and click on “Give me BNB”
-
-<img src="./Images/faucet.png" alt="drawing" width="180"/>
-
-`Tip`   Please note that you can only claim once every 24 hours until next allowance
 
 ## Connect Your MetaMask with MATIC Polygon Mainnet
 
@@ -118,32 +75,22 @@ Before we get started create a MetaMask Wallet or import One, then follow the st
 
 `Tip`   Please note that you can only claim once every 24 hours until next allowance
 
-## Add BEP20 Tokens
+## Adding a Token to your Wallet
 
-1. Deploy an ERC20 contract at [https://remix.ethereum.org/] You can create a new file or import a sample contract:
+1. Copy "Ctl+C" the Smart Address of your contract, for example: `0x732D6B1d3c733975E20470E385723B2b017D9dB6` that is in Kovan Testnet, then Go to your wallet and select `Assets` and click on `Add Token`
 
-2. Connect your Binance Smart Chain Account to Remix
+<img src="./Images/Adding_Token.png" alt="drawing" width="250"/>
 
 
-3. Connect your Binance Smart Chain Account to Remix, Select `SmartChainBet` contract and compile
+3. Paste the address on `Token Contract Address`, Type "SmartChain" in Token Symbol  and click on Next button. 
 
-<img src="./Images/compile.png" alt="drawing" width="250"/>
+<img src="./Images/Add_Token.png" alt="drawing" width="250"/>
 
-4. Deploy your compiled contract 
+4. Now you have the Token Added to your Wallet
 
-<img src="./Images/new_contract.png" alt="drawing" width="250"/>
+<img src="./Images/Token_Added.png" alt="drawing" width="250"/>
 
-5. You can go and check in `BscScan` [https://testnet.bscscan.com/] to see that there is a new create contract transaction
 
-<img src="./Images/tx_details.png" alt="drawing" width="250"/>
-
-6. In MetaMask, Go to `Assets` and click on `Add Token`
-
-<img src="./Images/AddToken.png" alt="drawing" width="250"/>
-
-7. Paste the `SmartChainBet` Token Contract Address, type `SmartChain` in Token Symbol and click "Next"
-
-<img src="./Images/Add_Token.png" alt="drawing" width="100"/>
-
+...
 
 
