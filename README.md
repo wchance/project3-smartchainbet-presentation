@@ -4,6 +4,13 @@
 - Universal Bet Support – Provide users with different ways of betting (e.g. score, spread, who scores first, etc.)
 - Universal Bet Wager – Bets could be not only on Sports events (e.g. how much it is going to rain in NYC today?)
 
+Fee Split
+
+- Ethereum Kovan
+- Address 0xaFC200be05fAAbE86fcC3ccd2d98169eF2611C36
+
+- Polygon Mainnet
+- Address 0x1288fb58ce7b3daf4e5a3fce2039fd23f8733105
 
 Link Data Feeds can be used from these Networks
 
