@@ -33,44 +33,30 @@ Link Data Feeds can be used from these Networks
 - Testnet ETH is available from [https://linkfaucet.protofire.io/kovan]
 
 
-## Connect Your MetaMask with MATIC Polygon Mainnet
+## Configure Polygon-Matic Mainnet on Metamask
+
+Before we get started create a MetaMask Wallet or import One, then follow these steps:
+
+1. Click on the Network selection dropdown and then click on **Custom RPC**.
+
+<img src="./Images/select-network.png" alt="drawing" width="180"/>
+
+2. Fill the form with the following information
+
+<img src="./Images/metamask-settings-mainnet.png" alt="drawing" width="180"/>
+
+- Polygon-Matic Mainnet
+    - Name:             Polygon
+    - RPC URL:          https://rpc-mainnet.maticvigil.com/
+    - ChainID:          137 
+    - Symbol:           MATIC
+    - Block Explorer:   https://polygonscan.com
+
+## Switching MetaMask to use Kovan Testnet
 
 Before we get started create a MetaMask Wallet or import One, then follow the steps:
 
-1. Go to setting page
-
-<img src="./Images/settings_MetaMask.png" alt="drawing" width="180"/>
-
-2. Select Networks and click on `Add Network`
-
-<img src="./Images/Add_network.png" alt="drawing" width="180"/>
-
-3. Fill the fields with this information
-
-<img src="./Images/network_info.png" alt="drawing" width="180"/>
-
-- Testnet
-
-    - RPC URLs - Use RPC URLs Testnet (Mumbai) from https://docs.matic.network/docs/develop/network-details/network/
-    - ChainID: 80001
-    - Symbol: MATIC
-    - Block Explorer: Use Block Explorer Testnet (Mumbai) from https://docs.matic.network/docs/develop/network-details/network/
-
-
-4. Claim some testnet token to your account Click on your address for copy
-faucet (use Mumbai MATIC) https://faucet.matic.network/
-
-5. Go to faucet page: [https://testnet.], then paste your address in the box and click on “Give me ...”
-
-<img src="./Images/faucet_matic.png" alt="drawing" width="250"/>
-
-`Tip`   Please note that you have to refresh the page to cpy new accoutn address
-
-## Connect Your MetaMask with ETH Kovan
-
-Before we get started create a MetaMask Wallet or import One, then follow the steps:
-
-1. Select Kovan Test in your MetaMask wallet
+1. Click on the Network selection dropdown and then click on **Kovan Test Network**.
 
 2. Claim some testnet token to your account, click on your address for copy
 
