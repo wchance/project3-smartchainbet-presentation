@@ -7,14 +7,13 @@
 # Presentation Link
 [Presentation PDF](SmartChainBet.pdf)
 
-### Jupyter Lab Notebook showing lifecycle and interactactions.
-BetLifeCycle.ipynb
+# Live Presentation Life Cyle of a Bet
+[Jupyter Lab Notebook](BetLifeCycle.ipynb)
 
 This was coded to help understand the LifeCycle of a bet and show interactions with smartcontract.
 
-
-### SmartContract to allow for distribution of fees 
-feesplit.sol
+# Fee Distribution 
+[Fee Splitter](feesplit.sol)
 
 This was developed to evenly split fees amongst the four in the group.   If we ever decide to charge a free for our service this smart contract would make things easier to divide.
 
