@@ -32,7 +32,7 @@ Link Data Feeds can be used from these Networks
 
 ## Polygon Network
 
-Although we have initially selected Polygon Matic as the blockchain and native coin our dApp will be flexible enough to allow selection of Network.   If it makes sense we could add Ethereum, Binance Smart Chain as selectable networks.
+Although we have initially selected Polygon Matic as the production blockchain and native coin our dApp will be flexible enough to allow selection of Network to transact.   Once usage demand and functionality is proven in production we could easily add the ability to transact in other network such as Ethereum and Binance Smart Chain.
 
 ## Add Polygon (Matic) Mainnet on Metamask Wallet
 
