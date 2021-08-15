@@ -7,7 +7,7 @@
 # Presentation Link
 [Presentation PDF](SmartChainBet.pdf)
 
-# Live Presentation Life Cyle of a Bet
+# Bet Lifecycle (Live)
 [Jupyter Lab Notebook](BetLifeCycle.ipynb)
 
 This was coded to help understand the LifeCycle of a bet and show interactions with smartcontract.
@@ -28,24 +28,7 @@ AssociateProfitSplitter SmartContract Addresses
 
 Link Data Feeds can be used from these Networks
 
-### Polygon Mainnet
-- ETH_CHAIN_ID 137
-- Address `0xb0897686c545045afc77cf20ec7a532e3120e0f1`
-- Name ChainLink Token
-- Symbol LINK
-- Decimals 18
-
-### Ethereum Kovan
-- ETH_CHAIN ID 42
-- Address `0xa36085F69e2889c224210F603D836748e7dC0088` 
-- Name ChainLink Token
-- Symbol LINK
-- Decimals 18
-
-**Kovan Faucets**
-- Testnet LINK is available from [https://kovan.chain.link/]
-- Testnet ETH is available from [https://linkfaucet.protofire.io/kovan]
-
+***
 
 ## Add Polygon (Matic) Mainnet on Metamask Wallet
 
@@ -97,7 +80,22 @@ Before we get started create a MetaMask Wallet or import One, then follow the st
 
 <img src="./Images/Token_Added.png" alt="drawing" width="250"/>
 
+### Polygon Mainnet
+- ETH_CHAIN_ID 137
+- Address `0xb0897686c545045afc77cf20ec7a532e3120e0f1`
+- Name ChainLink Token
+- Symbol LINK
+- Decimals 18
 
-...
+### Ethereum Kovan
+- ETH_CHAIN ID 42
+- Address `0xa36085F69e2889c224210F603D836748e7dC0088` 
+- Name ChainLink Token
+- Symbol LINK
+- Decimals 18
+
+**Kovan Faucets**
+- Testnet LINK is available from [https://kovan.chain.link/]
+- Testnet ETH is available from [https://linkfaucet.protofire.io/kovan]
 
 
