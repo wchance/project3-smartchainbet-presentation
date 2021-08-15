@@ -4,8 +4,13 @@
 - Universal Bet Support – Provide users with different ways of betting (e.g. score, spread, who scores first, etc.)
 - Universal Bet Wager – Bets could be not only on Sports events (e.g. how much it is going to rain in NYC today?)
 
-### Jupyter Lab Notebook explaining how we interact with the smartcontract.
+# Presentation Link
+[Presentation PDF](SmartChainBet.pdf)
+
+### Jupyter Lab Notebook showing lifecycle and interactactions.
 BetLifeCycle.ipynb
+
+This was coded to help understand the LifeCycle of a bet and show interactions with smartcontract.
 
 
 ### SmartContract to allow for distribution of fees 
@@ -14,7 +19,7 @@ feesplit.sol
 This was developed to evenly split fees amongst the four in the group.   If we ever decide to charge a free for our service this smart contract would make things easier to divide.
 
 
-Fee Split
+AssociateProfitSplitter SmartContract Addresses
 
 - Ethereum Kovan
 - Address 0xaFC200be05fAAbE86fcC3ccd2d98169eF2611C36
